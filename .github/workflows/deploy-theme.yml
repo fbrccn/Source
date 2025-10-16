@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - main
+      - 1.5.0_branch
 jobs:
   deploy:
     runs-on: ubuntu-22.04
